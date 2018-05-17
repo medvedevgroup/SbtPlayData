@@ -10,3 +10,7 @@ The five genomes have lengths ranging from about 11K bp to 21K bp. These
 contain a mix of random sequence data and some transcript-like sequences.  Some
 "transcripts" are present in more than one genome, albeit with a 2% mutation
 rate.
+
+The example2 directory is similar to example1 but was generated with different
+random seeding from fewer fake transcripts.  The transcripts file is also
+included.
